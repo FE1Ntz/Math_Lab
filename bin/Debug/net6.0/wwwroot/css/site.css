@@ -1,17 +1,33 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap');
 
 .nav{
+    width: 100%;
     height: 75px;
+    position: relative;
 }
 .nav-container{
     display: flex;
     justify-content: space-between;
-    width: 1320px;
     height: inherit;
-    margin-right: auto;
-    margin-left: auto;
-    
 }
+
+.container{
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+}
+
+.row{
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-2{
+    width: 50%;
+}
+
 .brand-text{
     display: flex;
     justify-content: center;
@@ -36,8 +52,75 @@
     margin-left: 30px;
 }
 
-.main-container{
-    height: 500px;
+.shadow{
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
+.intro-section{
+    height: 100%;
+    width: 100%;
     background-color: #a725ec;
-    box-shadow: inset 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
+
+.illustration{
+    height: 75%;
+    width: 75%;
+}
+
+.fix-shape{
+    margin-bottom: -7px;
+}
+
+.align-items-center{
+    align-items: center !important;
+}
+
+.text-white{
+    color: #fff!important;
+}
+
+.text-dark{
+    color: #212529;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.main-font{
+    font-family: "Fira Sans", serif;
+}
+
+.title-size-xl{
+    font-size: 72px;
+}
+
+.title-size-md{
+    font-size: 23px;
+}
+
+.margin-0{
+    margin: 0;
+}
+
+.margin-t-20{
+    margin: 20px 0 0 0;
+}
+
+.margin-b-20{
+    margin: 0 0 20px 0;
+}
+
+.padding-t-40{
+    padding: 40px 0 0 0;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: darkgray;
 }

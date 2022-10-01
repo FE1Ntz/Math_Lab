@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-wmk56X5dbt29rrFZKEFpOFjotkZA+JSxA4fqkgmBsOU=",
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
-      "MathLab.dll": "sha256-ibC4DfTuN2XekNaqnO3Q46XwzSg03g\/4HsHhO11kh2I="
+      "MathLab.dll": "sha256-tvXZgJ2hbhQ256d3pN1p3Th7LhNnRUrRvq7a3fOFey4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MathLab.pdb": "sha256-gnjXOZlivUZbgGddmWQcytEs2yjY0xjYThayNrnQ8LY="
+      "MathLab.pdb": "sha256-DKceWwkASrkAjRdF6u7BPd1L0arBVCcMmuinYoimc38="
     },
     "runtime": {
       "dotnet.6.0.7.sl4alc3rez.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",

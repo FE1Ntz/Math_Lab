@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x25blSE3V4/c/UEITNXCQhhdXeILx9uCDR9QLc7FyIk=",
+  "Hash": "Ss8YoHLbO9JaIwOgaV73JiUMUb49uYHWLZX806Z1ZwQ=",
   "Source": "MathLab",
   "BasePath": "/",
   "Mode": "Root",
@@ -7004,6 +7004,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\ftfunct.svg",
+      "SourceId": "MathLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "ftfunct.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ftfunct.svg"
+    },
+    {
       "Identity": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\icon-192.png",
       "SourceId": "MathLab",
       "SourceType": "Discovered",
@@ -7019,6 +7036,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\img\\Leaderbord.svg",
+      "SourceId": "MathLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/Leaderbord.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Leaderbord.svg"
     },
     {
       "Identity": "C:\\Users\\zdane\\RiderProjects\\MathLab\\MathLab\\wwwroot\\index.html",
