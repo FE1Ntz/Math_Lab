@@ -66,6 +66,11 @@
     width: 75%;
 }
 
+.w-65{
+    height: 65%;
+    width: 65%;
+}
+
 .fix-shape{
     margin-bottom: -7px;
 }
